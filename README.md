@@ -11,7 +11,8 @@
 ## Paso 2<br>
 - Crea el documento README.md<br>
   ![2.1](img/3.png)<br>
-      - El documento puede ser creado tanto automáticamente como manualmente, en mi caso lo he creado automáticamente durante la creación del repositorio<br>
+
+    - El documento puede ser creado tanto automáticamente como manualmente, en mi caso lo he creado automáticamente durante la creación del repositorio<br>
 ## Paso 3<br>
 - Añadir al README.md los comandos utilizados hasta ahora y hacer un commit inicial con el mensaje commit inicial.<br>
   ![3.1](img/4.png)<br>
