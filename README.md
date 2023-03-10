@@ -104,3 +104,6 @@ con la información del docente del módulo:<br>
 - Envía  tus cambios para ser revisados<br>
 ![7](img/22.png)
   - He añadido una pequeña descripción de lo que he hecho y he realizado el pull request.<br>
+
+
+Gracias a este exámen he podido no solo afianzar mis conocimientos de Github y el control de versiones, sino que me ha ayudado a comprobar que, pese a que creía que no., ya he automatizado la mayor parte de los pasos y los puedo hacer casi sin pensar.
