@@ -67,7 +67,9 @@ con la información del docente del módulo:<br>
 |------|---------|----------|------|
 |Máximo Fernández|Docente|Francesc de Borja Moll i CESUR|[maximofernandezriera](http://github.com/maximofernandezriera)|
 <br>
-![11.1](img/14.png)<br>
+
+![11.1](img/14.png)
+<br>
   - A la izquierda puedes ver como es en el propio código de Markdown y a la derecha como se verá en la página de portada del repositorio.<br>
 ## Paso 12<br>
 
